@@ -1,0 +1,33 @@
+_repo: The-House-in-the-Mist_19147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Mrs. Charles
+    - Rohlfs, Anna Katharine Green
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: ''
+gutenberg_issued: '2006-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+tableOfContents: The house in the mist -- The ruby and the caldron -- The hermit of
+  ---- street
+title: The House in the Mist
+url: http://www.gutenberg.org/ebooks/19147
